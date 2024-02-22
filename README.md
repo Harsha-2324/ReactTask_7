@@ -94,6 +94,9 @@
 
 - React
 - React Router
+- Mock API
+- fetch()
 - Formik for Validation
+- Lazy Loading
 - HTML/CSS
 - Bootstrap for styling
