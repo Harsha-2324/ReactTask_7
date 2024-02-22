@@ -161,7 +161,7 @@ export function Books({}) {
                             console.log(bmd);
                           }}
                         >
-                          Takebooks
+                          Pick Book
                         </button>
 
                         <button
@@ -181,7 +181,7 @@ export function Books({}) {
           })
         ) : (
           <div className="text-white">
-            <h1 className="text-white">Loading...</h1>
+            <h1 className="text-dark">Loading...</h1>
           </div>
         )}
       </div>
