@@ -60,7 +60,7 @@
 ## Usage with Screenshots
 
 ### 1. Click the "Books" link to Navigate to Books page and view available products.
- ![image](./public/image/Screenshot (148).png)
+ ![image](./public/image/Screenshot%20(148).png)
 
 ### 2. Click "Home" or "Books" or "Add Books" or "Return Books" to navigate to the respective pages to perform CRUD operation.
  ![image](./public/image/Screenshot (147).png)
