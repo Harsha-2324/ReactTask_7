@@ -40,7 +40,7 @@ export function Takebooks({ takebooks }) {
     <div className="container">
       <div className="row ">
         <div className="heading bg-dark border border-warning text-warning p-1 mt-3 mb-3  ">
-          <h1 className="text-center mt-3 ">Return Books library</h1>
+          <h1 className="text-center mt-3 ">Books To Return</h1>
         </div>
 
         {bookdata.length > 0 ? (
