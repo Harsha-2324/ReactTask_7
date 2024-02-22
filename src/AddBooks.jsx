@@ -93,7 +93,7 @@ navigate("/books")
 
 
 
-<h3 className="card-header mb-2 bg-dark text-center">Addbooks</h3>   
+<h3 className="card-header mb-2 bg-dark text-center">Add Books</h3>   
 <div className="card-body">
 
 
@@ -153,7 +153,7 @@ navigate("/books")
 
 <div className="d-grid mt-3">
 
-<button className="btn btn-success" type="submit" >AddBooks</button>
+<button className="btn btn-success" type="submit" >Add Books</button>
 </div>
 
 
