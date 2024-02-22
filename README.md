@@ -8,13 +8,14 @@
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Usage with Screenshots](#usage-with-screenshots)
-    - [1. Browse the home page to view available products.](#1-browse-the-home-page-to-view-available-products)
-    - [2. Click "Add to Cart" to add a product to the cart.](#2-click-add-to-cart-to-add-a-product-to-the-cart)
-    - [3. Navigate to the cart page to manage your cart contents.](#3-navigate-to-the-cart-page-to-manage-your-cart-contents)
-    - [4. Adjust product quantities using the "+" and "-" buttons.](#4-adjust-product-quantities-using-the--and---buttons)
-    - [5. Click "Remove from Cart" to remove a product from the cart.](#5-click-remove-from-cart-to-remove-a-product-from-the-cart)
-    - [6. Click in the Apple Store or SHOP Cart Page to go to the Home Page.](#6-click-in-the-apple-store-or-shop-cart-page-to-go-to-the-home-page)
-    - [7. Click in the Continue Shopping on the Cart Page to go to the Home Page.](#7-click-in-the-continue-shopping-on-the-cart-page-to-go-to-the-home-page)
+    - [1. Click the "Books" link to Navigate to Books page and view available products.](#1-click-the-books-link-to-navigate-to-books-page-and-view-available-products)
+    - [2. Click "Home" or "Books" or "Add Books" or "Return Books" to navigate to the respective pages to perform CRUD operation.](#2-click-home-or-books-or-add-books-or-return-books-to-navigate-to-the-respective-pages-to-perform-crud-operation)
+    - [3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik.](#3-click-add-books-to-navigate-to-the-add-books-page-and-add-the-details-of-the-book-and-then-click-addbooks-button-to-add-the-bookyou-cannot-add-a-book-if-you-fail-to-give-inputs-as-suggested-by-formik)
+    - [4. Click the "Details" link to view details of the Book.](#4-click-the-details-link-to-view-details-of-the-book)
+    - [5. Click the "Edit" link to Navigate to Update page and Edit the details of the Book.](#5-click-the-edit-link-to-navigate-to-update-page-and-edit-the-details-of-the-book)
+    - [6. Click "Pick Book" link to move a book from the Books page to Return Books page.](#6-click-pick-book-link-to-move-a-book-from-the-books-page-to-return-books-page)
+    - [7. Click "Return to Library" button on Return Books page to move a book from the Return Books page to Books page.](#7-click-return-to-library-button-on-return-books-page-to-move-a-book-from-the-return-books-page-to-books-page)
+    - [8. Click "Delete" button of a Specific Book on Books page to delete a book from the Books page.](#8-click-delete-button-of-a-specific-book-on-books-page-to-delete-a-book-from-the-books-page)
   - [Technologies Used](#technologies-used)
  
 ## Netlify Deployed URL
@@ -58,34 +59,41 @@
 
 ## Usage with Screenshots
 
-### 1. Browse the home page to view available products.
- ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+### 1. Click the "Books" link to Navigate to Books page and view available products.
+ ![image](./public/image/Screenshot (148).png)
 
-### 2. Click "Add to Cart" to add a product to the cart.
- ![image](./public/image/Output_Screenshot/Screenshot%20(136).png)
- ![image](./public/image/Output_Screenshot/Screenshot%20(137).png)
- ![image](./public/image/Output_Screenshot/Screenshot%20(138).png)
- ![image](./public/image/Output_Screenshot/Screenshot%20(139).png)
+### 2. Click "Home" or "Books" or "Add Books" or "Return Books" to navigate to the respective pages to perform CRUD operation.
+ ![image](./public/image/Screenshot (147).png)
+ ![image](./public/image/Screenshot (148).png)
+ ![image](./public/image/Screenshot (154).png)
+ ![image](./public/image/Screenshot (153).png)
 
-### 3. Navigate to the cart page to manage your cart contents.
- ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
+### 3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik.  
+![image](./public/image/Screenshot (155).png)
+![image](./public/image/Screenshot (156).png)
+![image](./public/image/Screenshot (157).png)
+
+### 4. Click the "Details" link to view details of the Book.
+ ![image](./public/image/Screenshot (149).png)
  
-### 4. Adjust product quantities using the "+" and "-" buttons.
- ![image](./public/image/Output_Screenshot/Screenshot%20(140).png)
+### 5. Click the "Edit" link to Navigate to Update page and Edit the details of the Book.
+ ![image](./public/image/Screenshot (150).png)
   
-### 5. Click "Remove from Cart" to remove a product from the cart.
- ![image](./public/image/Output_Screenshot/Screenshot%20(141).png)
-  
-### 6. Click in the Apple Store or SHOP Cart Page to go to the Home Page.
- ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+### 6. Click "Pick Book" link to move a book from the Books page to Return Books page.
+ ![image](./public/image/Screenshot (152).png)
+ ![image](./public/image/Screenshot (153).png)
 
-### 7. Click in the Continue Shopping on the Cart Page to go to the Home Page.
- ![image](./public/image/Output_Screenshot/Screenshot%20(135).png)
+### 7. Click "Return to Library" button on Return Books page to move a book from the Return Books page to Books page.
+ ![image](./public/image/Screenshot (153).png)
+ ![image](./public/image/Screenshot (151).png)
+
+### 8. Click "Delete" button of a Specific Book on Books page to delete a book from the Books page.
+ ![image](./public/image/Screenshot (152).png)
 
 ## Technologies Used
 
 - React
 - React Router
-- Context API for state management
+- Formik for Validation
 - HTML/CSS
 - Bootstrap for styling
