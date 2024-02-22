@@ -1,8 +1,8 @@
-# Context API Shopping Website with Cart Functions
+# Formik Library Management Application
 
 ## Table of Contents
 
-- [Context API Shopping Website with Cart Functions](#context-api-shopping-website-with-cart-functions)
+- [Formik Library Management Application](#formik-library-management-application)
   - [Table of Contents](#table-of-contents)
   - [Netlify Deployed URL](#netlify-deployed-url)
   - [Features](#features)
@@ -19,13 +19,13 @@
  
 ## Netlify Deployed URL
 
-🔸*Check out My ContextAPI Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://formik-validation-react-task-7.netlify.app/)
+🔸*Check out My Formik Library Management Application Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://formik-validation-react-task-7.netlify.app/)
 
 ## Features
 
-- Product display with details and images.
-- Cart functionality: add and remove products, adjust quantities.
-- Navigation between home and cart pages.
+- Book Details Display .
+- CRUD functionality: add, remove and edit books.
+- Navigation between Home, Books, Add Books and Return Books pages.
 - Total price calculation based on cart contents.
 
 ## Getting Started
@@ -33,18 +33,17 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Harsha-2324/ReactTask_5.git
+   git clone https://github.com/Harsha-2324/ReactTask_7.git
 
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd ReactTask_5
+   cd ReactTask_7
    npm install 
    npm install react-router-dom
    npm install axios
-   npm install --save phosphor-react
 
    ```
 
