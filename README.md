@@ -10,7 +10,7 @@
   - [Usage with Screenshots](#usage-with-screenshots)
     - [1. Click the "Books" link to Navigate to Books page and view available products.](#1-click-the-books-link-to-navigate-to-books-page-and-view-available-products)
     - [2. Click "Home" or "Books" or "Add Books" or "Return Books" to navigate to the respective pages to perform CRUD operation.](#2-click-home-or-books-or-add-books-or-return-books-to-navigate-to-the-respective-pages-to-perform-crud-operation)
-    - [3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik.](#3-click-add-books-to-navigate-to-the-add-books-page-and-add-the-details-of-the-book-and-then-click-addbooks-button-to-add-the-bookyou-cannot-add-a-book-if-you-fail-to-give-inputs-as-suggested-by-formik)
+    - [3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik Validation Error Hint.](#3-click-add-books-to-navigate-to-the-add-books-page-and-add-the-details-of-the-book-and-then-click-addbooks-button-to-add-the-bookyou-cannot-add-a-book-if-you-fail-to-give-inputs-as-suggested-by-formik-validation-error-hint)
     - [4. Click the "Details" link to view details of the Book.](#4-click-the-details-link-to-view-details-of-the-book)
     - [5. Click the "Edit" link to Navigate to Update page and Edit the details of the Book.](#5-click-the-edit-link-to-navigate-to-update-page-and-edit-the-details-of-the-book)
     - [6. Click "Pick Book" link to move a book from the Books page to Return Books page.](#6-click-pick-book-link-to-move-a-book-from-the-books-page-to-return-books-page)
@@ -68,7 +68,7 @@
  ![image](./public/image/Screenshot%20(154).png)
  ![image](./public/image/Screenshot%20(153).png)
 
-### 3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik.  
+### 3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik Validation Error Hint.  
 ![image](./public/image/Screenshot%20(155).png)
 ![image](./public/image/Screenshot%20(156).png)
 ![image](./public/image/Screenshot%20(157).png)
