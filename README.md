@@ -63,32 +63,32 @@
  ![image](./public/image/Screenshot%20(148).png)
 
 ### 2. Click "Home" or "Books" or "Add Books" or "Return Books" to navigate to the respective pages to perform CRUD operation.
- ![image](./public/image/Screenshot (147).png)
- ![image](./public/image/Screenshot (148).png)
- ![image](./public/image/Screenshot (154).png)
- ![image](./public/image/Screenshot (153).png)
+ ![image](./public/image/Screenshot%20(147).png)
+ ![image](./public/image/Screenshot%20(148).png)
+ ![image](./public/image/Screenshot%20(154).png)
+ ![image](./public/image/Screenshot%20(153).png)
 
 ### 3. Click "Add Books" to navigate to the Add Books page and Add the Details of the book and then click "AddBooks" button to add the book,You cannot add a book if you fail to give inputs as suggested by formik.  
-![image](./public/image/Screenshot (155).png)
-![image](./public/image/Screenshot (156).png)
-![image](./public/image/Screenshot (157).png)
+![image](./public/image/Screenshot%20(155).png)
+![image](./public/image/Screenshot%20(156).png)
+![image](./public/image/Screenshot%20(157).png)
 
 ### 4. Click the "Details" link to view details of the Book.
- ![image](./public/image/Screenshot (149).png)
+ ![image](./public/image/Screenshot%20(149).png)
  
 ### 5. Click the "Edit" link to Navigate to Update page and Edit the details of the Book.
- ![image](./public/image/Screenshot (150).png)
+ ![image](./public/image/Screenshot%20(150).png)
   
 ### 6. Click "Pick Book" link to move a book from the Books page to Return Books page.
- ![image](./public/image/Screenshot (152).png)
- ![image](./public/image/Screenshot (153).png)
+ ![image](./public/image/Screenshot%20(152).png)
+ ![image](./public/image/Screenshot%20(153).png)
 
 ### 7. Click "Return to Library" button on Return Books page to move a book from the Return Books page to Books page.
- ![image](./public/image/Screenshot (153).png)
- ![image](./public/image/Screenshot (151).png)
+ ![image](./public/image/Screenshot%20(153).png)
+ ![image](./public/image/Screenshot%20(151).png)
 
 ### 8. Click "Delete" button of a Specific Book on Books page to delete a book from the Books page.
- ![image](./public/image/Screenshot (152).png)
+ ![image](./public/image/Screenshot%20(152).png)
 
 ## Technologies Used
 
