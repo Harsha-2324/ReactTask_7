@@ -25,9 +25,9 @@
 ## Features
 
 - Book Details Display .
-- CRUD functionality: add, remove and edit books.
+- CRUD functionality: add, delete and edit books.
 - Navigation between Home, Books, Add Books and Return Books pages.
-- Total price calculation based on cart contents.
+- Additional feature: You can pick a book from the books page and return it again from the return books page .
 
 ## Getting Started
 
