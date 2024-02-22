@@ -37,12 +37,12 @@ export function Navbar() {
             </li>
             <li className="nav-item  ">
               <Link to={"/addbooks"} className="nav-link">
-                AddBooks
+                Add Book
               </Link>
             </li>
             <li className="nav-item ">
               <Link to={"/books/take"} className="nav-link">
-                Return Books
+                Return Book
               </Link>{" "}
             </li>
 

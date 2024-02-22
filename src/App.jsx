@@ -6,7 +6,6 @@ import { Books } from "./Books";
 import { EditBook } from "./EditBook.jsx";
 import { Takebooks } from "./Takebooks.jsx";
 import { Navbar } from "./Navbar.jsx";
-import Footer from "./Footer";
 import Home from "./Home";
 
 function App() {
